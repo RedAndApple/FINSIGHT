@@ -1,0 +1,11 @@
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+backend/data/finsight.db
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/results/*
+!backend/data/results/.gitkeep
